@@ -25,7 +25,7 @@ A budgeting app built around a "safe to spend" calculator, AI coaching, and dail
 See the rest, including Facet and Everyday Genius, on my [portfolio »](https://phranchise.github.io/about-me/)
 
 ## Toolkit
-`Power BI` · `Power Automate` · `Python` · `SQL` · `Excel` · `FastAPI` · `React` · financial analysis
+`Power BI` · `Power Automate` · `Python` · `SQL` · `Excel` · `FastAPI` · `React` · `financial analysis`
 
 ## Reach me
 [Portfolio](https://phranchise.github.io/about-me/) · [LinkedIn](https://linkedin.com/in/shenal-peries) · shenal.peries@my.smsu.edu
